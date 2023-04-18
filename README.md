@@ -1,2 +1,1 @@
-# Prep-Course-Henry
-Repositorio de prueba del modulo 2 de Henry
+Este es un proyecto de prueba sobre crear un repositorio y crearlo en mi escritorio 
